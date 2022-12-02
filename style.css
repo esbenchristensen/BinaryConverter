@@ -1,0 +1,21 @@
+
+
+main{
+padding-top: 5rem;
+}
+
+body{
+    background-color: black;
+    color: rgb(24, 224, 24);
+    font-family: 'Michroma', sans-serif;
+    text-align: center;
+
+}
+
+.result{
+    padding-top: 1rem;
+}
+
+input{
+    margin: 5px 5px 5px 5px;
+}
